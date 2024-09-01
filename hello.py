@@ -1,1 +1,2 @@
-print("HELLO WORLD! This is a Python program.")
+username = input("What's your name? ")
+print(f'Hello, {username}!')
